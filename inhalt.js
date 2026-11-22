@@ -121,7 +121,7 @@ Ideal für den Morgen, eine Pause zwischendurch oder den Abend.`,
       untertitel: "",
       projekte: [
         {
-          id:    "essays"
+          id:    "essays",
           titel: "Inly auf Substack",
           kurz:  "Essays über das, was innen passiert",
           bild:  "bilder/substack.jpg",
