@@ -67,7 +67,7 @@ Klick dich durch und schau, was zu dir passt.`,
           titel: "Bodenlos",
           kurz:  "Das Trinkspiel ohne Boden",
           bild:  "bilder/bodenlos.jpg",
-          galerie: ["bilder/bodenlos-1.jpg", "bilder/bodenlos-2.jpg", "bilder/bodenlos-3.jpg"],
+          galerie: [],
           text: `Ein Handy, eine Runde, drei Stapel. Wähle dein Level, erfülle die Aufgabe auf der Karte – und reich das Handy weiter.
 
 **Grün** ist leicht, **Gelb** wird mutiger, **Rot** ist nur für die Härtesten.
@@ -82,7 +82,7 @@ Läuft direkt im Browser, kein Download, keine Anmeldung. Ab 18 – trinkt veran
           titel: "alltag",
           kurz:  "Kleine Schritte. Jeden Tag.",
           bild:  "bilder/alltag.jpg",
-          galerie: [],
+          galerie: ["bilder/alltag-woche.jpg", "bilder/alltag-wochentage.jpg"],
           text: `Ein ruhiger Gewohnheits-Tracker für die kleinen Dinge, die auf Dauer den Unterschied machen – mehr Wasser trinken, jeden Tag ein paar Seiten lesen, was immer dir wichtig ist.
 
 Hake deine Gewohnheiten ab und sieh deinen Fortschritt über Tag, Woche, Monat und Jahr.
