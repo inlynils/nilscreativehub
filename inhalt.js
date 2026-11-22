@@ -121,14 +121,14 @@ Ideal für den Morgen, eine Pause zwischendurch oder den Abend.`,
       untertitel: "",
       projekte: [
         {
-          id:    "essays",
+          id:    "essays"
           titel: "Inly auf Substack",
           kurz:  "Essays über das, was innen passiert",
           bild:  "bilder/substack.jpg",
-          galerie: [],
-          text: `Gedanken über Bewusstsein, Ego und das, was bleibt, wenn man genauer hinschaut.
+          galerie: ["bilder/substack-bild.jpg", "bilder/substack-artikel.jpg"],
+          text: `Persönliche Texte über das Menschsein – über Hoffnung in schweren Zeiten, die Geschichten, die wir uns selbst erzählen, und das, was bleibt, wenn man genauer hinschaut.
 
-Neue Texte kommen direkt in dein Postfach, wenn du magst.`,
+Neue Essays kommen direkt in dein Postfach, wenn du magst.`,
           merkmale: ["Essays", "Newsletter"],
           links: [
             { text: "Lesen auf Substack", url: "https://open.substack.com/pub/inly" },
